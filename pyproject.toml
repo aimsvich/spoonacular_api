@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "spoonacular_api"
-version = "0.1.3"
+version = "0.1.4"
 description = "A package for finding ingredients and creating a grocery list"
 authors = ["Aimee Vichiennet"]
 license = "MIT"
