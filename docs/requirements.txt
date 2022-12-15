@@ -3,4 +3,3 @@ sphinx-autoapi
 sphinx-rtd-theme
 requests
 pandas
-dotenv
