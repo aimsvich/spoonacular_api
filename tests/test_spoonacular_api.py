@@ -7,7 +7,6 @@ load_dotenv()
 API_Key = os.getenv('API_Key')
 
 test = GroceryList('username', 'firstname', 'lastname', 'user@email.com', API_Key)
-
 def test_searchRecipe():
     data = {'Recipe': ['Spinach Soup With Wontons', 'The Best Quinoa Minestrone', 'Pomegranate Soup (Ash-E Anar)'],
             'Servings': [4, 8, 6],
