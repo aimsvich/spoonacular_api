@@ -4,4 +4,4 @@
 
 ## v0.1.0 (13/12/2022)
 
-- First release of `spooncular_api`!
+- First release of `spoonacular_api`!
