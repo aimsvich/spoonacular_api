@@ -296,6 +296,8 @@ class GroceryList():
         pandas.core.frame.DataFrame
                 The shopping listdataframe that contains the ingredients, amounts needed, the cost, and the item IDs without the deleted items.
 
+        Examples
+        --------
         >>> recipe.deleteItem(1400329, 1400333, 1400335)
         Shopping list
                 Item                            Amount          Unit            Cost (USD)      Item ID

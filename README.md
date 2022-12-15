@@ -36,10 +36,10 @@ $ pip install spoonacular_api
 ## Examples
 
 ```bash
-import spoonacular_api
+import spoonacular_api.spoonacular_api as sp
 
 # Initialize the class
-recipe = GroceryList('cooluser', 'John', 'Doe', 'thecoolestuser@gmail.com', 'Your API_Key')
+recipe = sp.GroceryList('cooluser', 'John', 'Doe', 'thecoolestuser@gmail.com', 'Your API_Key')
 
 # Search for recipes
 >>>recipe.searchRecipe('soup', 'chicken', 'carrot')
