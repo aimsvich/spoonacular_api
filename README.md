@@ -1,6 +1,6 @@
 # spoonacular_api
 
-Planning a meal can be a challenge with the constraint on time and budget. To save time and money, this package helps find recipes and ingredients, and create a grocery list with a cost estimation using Spoonacular API.
+Planning a meal can be a challenge with the constraint on time and budget. To save time and money, this package helps find recipes and ingredients, and create a grocery list with a cost estimate using Spoonacular API.
 
 ## Installation
 
